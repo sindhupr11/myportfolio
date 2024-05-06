@@ -1,21 +1,19 @@
-import { BlogPosts } from 'app/components/posts'
 
 export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
+        Hi there, I'm Sindhu
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        An aspiring and driven Software Developer with a zest for learning and innovation! My journey in the tech world kicked off with exciting experiences like my internship at Raftel Technologies Pvt. Ltd., where I delved into backend development, mastering tools like JavaScript, Node.js, and AWS while crafting user authentication microservices.ingful contributions to the tech community!`
       </p>
-      <div className="my-8">
-        <BlogPosts />
-      </div>
+      <p className="mb-4">
+        Along the way, I've had the pleasure of leading dynamic teams as the Lead for Google Developer Student Clubs at CUSAT and as the Tech Lead for Tinkerhub, SOE CUSAT. My involvement in projects like the Horizon Mars Rover Team and mentorship roles at Tink-Her-Hack have enriched my collaborative spirit and problem-solving skills.
+      </p>
+      <p className="mb-4">
+        I'm proud to have been recognized as a Grace Hopper Celebration Scholar, a Smart India Hackathon Finalist, and for clinching the "Best Freshers Hack" award at DotSlash 5.0. With a warm passion for machine learning and data science, I'm excited to keep pushing boundaries, creating innovative solutions, and making meaningful contributions to the tech community!
+      </p>
     </section>
-  )
+  );
 }
