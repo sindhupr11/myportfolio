@@ -6,7 +6,7 @@ export default function Page() {
         Hi there, I'm Sindhu
       </h1>
       <p className="mb-4">
-        An aspiring and driven Software Developer with a zest for learning and innovation! My journey in the tech world kicked off with exciting experiences like my internship at Raftel Technologies Pvt. Ltd., where I delved into backend development, mastering tools like JavaScript, Node.js, and AWS while crafting user authentication microservices.ingful contributions to the tech community!`
+        An aspiring and driven Software Developer with a zest for learning and innovation! My journey in the tech world kicked off with exciting experiences like my internship at Raftel Technologies Pvt. Ltd., where I delved into backend development, mastering tools like JavaScript, Node.js, and AWS while crafting user authentication microservices.`
       </p>
       <p className="mb-4">
         Along the way, I've had the pleasure of leading dynamic teams as the Lead for Google Developer Student Clubs at CUSAT and as the Tech Lead for Tinkerhub, SOE CUSAT. My involvement in projects like the Horizon Mars Rover Team and mentorship roles at Tink-Her-Hack have enriched my collaborative spirit and problem-solving skills.
